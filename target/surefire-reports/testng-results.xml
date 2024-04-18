@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-18T16:27:30 MESZ" name="Smoky" finished-at="2024-04-18T16:27:37 MESZ" duration-ms="7096">
+    <groups>
+    </groups>
+    <test started-at="2024-04-18T16:27:30 MESZ" name="Smoky" finished-at="2024-04-18T16:27:37 MESZ" duration-ms="7096">
+      <class name="com.demoqa.tests.PracticeFormTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.demoqa.tests.PracticeFormTest@74455848]" started-at="2024-04-18T16:27:30 MESZ" name="init" finished-at="2024-04-18T16:27:34 MESZ" duration-ms="3826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondicion()[pri:0, instance:com.demoqa.tests.PracticeFormTest@74455848]" started-at="2024-04-18T16:27:34 MESZ" name="precondicion" finished-at="2024-04-18T16:27:34 MESZ" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondicion -->
+        <test-method signature="createStudentAccountTest()[pri:0, instance:com.demoqa.tests.PracticeFormTest@74455848]" started-at="2024-04-18T16:27:34 MESZ" name="createStudentAccountTest" finished-at="2024-04-18T16:27:37 MESZ" duration-ms="2537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createStudentAccountTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoqa.tests.PracticeFormTest@74455848]" started-at="2024-04-18T16:27:37 MESZ" name="tearDown" finished-at="2024-04-18T16:27:37 MESZ" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.tests.PracticeFormTest -->
+    </test> <!-- Smoky -->
+  </suite> <!-- Smoky -->
+</testng-results>
